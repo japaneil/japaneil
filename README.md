@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=japaneil" alt="japaneil" /></a> </p>
 
-- 🔭 I’m currently working on **a self sustainable plant pot**
+- 🔭 I’m currently working on **Board Examinations**
 
-- 🌱 I’m currently revising **C**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **anything**
 
