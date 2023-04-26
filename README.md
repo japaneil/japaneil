@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japaneil&label=Profile%20views&color=0e75b6&style=flat" alt="japaneil" /> </p>
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=japaneil" alt="japaneil" />
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=japaneil&column=8&no-frame=true"/>
 
 - 🔭 I’m currently working on **Board Examinations**
 
