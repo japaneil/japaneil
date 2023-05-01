@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **10th Board Examinations**
 
-- 🌱 I’m currently learning **Flutter and Saxophone**
+- 🌱 I’m currently learning **Flutter and the Saxophone**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **neilarora2008@gmail.com**
 
-- ⚡ Fun fact **I am a nerd.**
+- ⚡ Fun fact **HTML is not a programming language.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
