@@ -5,9 +5,9 @@
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=japaneil&column=8&no-frame=true"/>
 
-- 🔭 I’m currently working on **Board Examinations**
+- 🔭 I’m currently working on **10th Board Examinations**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter and Saxophone**
 
 - 💬 Ask me about **anything**
 
