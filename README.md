@@ -5,15 +5,15 @@
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=japaneil&column=8&no-frame=true"/>
 
-- 🔭 I’m currently working on **10th Board Examinations**
+- 🔭 I’m currently working on **10th Board Examinations and New Ideas for Innovation**
 
-- 🌱 I’m currently learning **Flutter and the Saxophone**
+- 🌱 I’m currently learning **Python and the Saxophone**
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **neilarora2008@gmail.com**
 
-- ⚡ Fun fact **HTML is not a programming language.**
+- ⚡ Fun fact **HTML is not a programming language. It's a markup language.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
