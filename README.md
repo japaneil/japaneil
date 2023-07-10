@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neil</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=japaneil&label=Profile%20views&color=0e75b6&style=flat" alt="japaneil" /> </p>
 
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=japaneil&column=8&no-frame=true"/>
 
@@ -12,8 +11,6 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **neilarora2008@gmail.com**
-
-- ⚡ Fun fact **HTML is not a programming language. It's a markup language.**
 
 ![Alt](https://repobeats.axiom.co/api/embed/94a5c1f7efc66222a602d8318b9775bea2b60ccc.svg "Repobeats analytics image")
 
