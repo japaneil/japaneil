@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=japaneil&column=8&no-frame=true"/>
+
 
 - 🔭 I’m currently working on **10th Board Examinations and SpyFest**
 
