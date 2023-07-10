@@ -23,5 +23,5 @@
 
 
 <div>
-<a href="https://www.buymeacoffee.com/neilaroraAI"> <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neilaroraAI" /></a>
+<a href="https://www.buymeacoffee.com/neilaroraAI"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neilaroraAI" /></a>
 </div>
