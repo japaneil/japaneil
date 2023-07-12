@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **10th Board Examinations and SpyFest**
+- 🔭 I’m currently working on **Technoxian 2023 and Re:Read**
 
 - 🌱 I’m currently learning **Python and the Saxophone**
 
