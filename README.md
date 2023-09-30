@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **Re:Read**
+- 🔭 I’m currently working on **CBSE national science fair**
 
-- 🌱 I’m currently learning **Python and the Saxophone**
+- 🌱 I’m currently learning **C language and the Saxophone**
 
 - 💬 Ask me about **anything**
 
