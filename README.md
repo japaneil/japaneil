@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **CBSE national science fair**
+- 🔭 I’m currently working on **CBSE national science fair.**
 
-- 🌱 I’m currently learning **C language and the Saxophone**
+- 🌱 I’m currently learning **C language and the Saxophone.**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything!**
 
-- 📫 How to reach me **neilarora2008@gmail.com**
+- 📫 How to reach me **neilarora2008@gmail.com.**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=japaneil&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
