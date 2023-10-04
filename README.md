@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CBSE national science fair.**
 
-- 🌱 I’m currently learning **C language and the Saxophone.**
+- 🌱 I’m currently learning **kotlin and the Saxophone.**
 
 - 💬 Ask me about **anything!**
 
