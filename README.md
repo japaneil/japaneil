@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **CBSE national science fair and CBSE Board Examinations 2024.**
+- 🔭 I’m currently working on **secret project.**
 
 - 🌱 I’m currently learning **kotlin and the Saxophone.**
 
