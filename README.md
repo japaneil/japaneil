@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **game development, algorithms and Python with MySQL.**
 
-- 🌱 I’m currently learning **MySQL and Django.**
+- 🌱 I’m currently learning **MySQL and Flask.**
 
 - 💬 Ask me about **anything!**
 
