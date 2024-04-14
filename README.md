@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **secret project.**
+- 🔭 I’m currently working on **game development, algorithms and Python with MySQL.**
 
-- 🌱 I’m currently learning **kotlin and the Saxophone.**
+- 🌱 I’m currently learning **MySQL and Django.**
 
 - 💬 Ask me about **anything!**
 
