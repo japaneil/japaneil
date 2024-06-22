@@ -7,13 +7,13 @@
 
 
 
-- 🔭 I’m currently working on **game development and portfolio making.**
+- 🔭 I’m currently working on **game development and AVR program.**
 
-- 🌱 I’m currently learning **MySQL and C#.**
+- 🌱 I’m currently learning **GDscript and Assembly.**
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **neilarora2008@gmail.com.**
+- 📫 How to reach me **contact@neilarora.in.**
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=japaneil&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
