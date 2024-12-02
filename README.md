@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **game development and AVR program.**
+- 🔭 I’m currently working on **FPGA & HDL.**
 
-- 🌱 I’m currently learning **GDscript and Assembly.**
+- 🌱 I’m currently learning **Verilog.**
 
 - 💬 Ask me about **anything!**
 
