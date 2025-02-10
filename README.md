@@ -7,11 +7,11 @@
 
 
 
-- 🔭 I’m currently working on **FPGA & HDL.**
+- 🔭 I’m currently working on **Game Development (Yes, Again).**
 
-- 🌱 I’m currently learning **Verilog.**
+- 🌱 I’m currently learning **C#.**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **collaboration on projects!**
 
 - 📫 How to reach me **contact@neilarora.in.**
 
