@@ -1,6 +1,4 @@
-  <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJienptbWdpbzU3cTh1d2t4enZranc5Y3Q3Zm9rMXNsZmF6eTA2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-</div>
+
 <h1 align="center">Hi 👋, I'm Neil</h1>
 <h3 align="center">A passionate developer from India</h3>
 
