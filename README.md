@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Game Development (Yes, Again) and my Microblogs (<a href="https://logs.neilarora.in/"> Access Here </a>).**
 
-- 🌱 I’m currently learning **C#.**
+- 🌱 I’m currently learning **C# & Unity.**
 
 - 💬 Ask me about **collaboration on projects!**
 
