@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **collaboration on projects!**
 
-- 📫 How to reach me **contact@neilarora.in.**
+- 📫 How to reach me **contact@neilarora.in** or **neilarora2008@gmail.com.**
 
  <div style="display: flex; justify-content: center;" width="100%"><div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-iota.vercel.app?user=japaneil&theme=dark&hide_border=true" alt="GitHub Streak" /></a></div></div>
 
