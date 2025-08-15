@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Game Development (Yes, Again) and my Microblogs (<a href="https://logs.neilarora.in/"> Access Here </a>).**
 
-- 🌱 I’m currently learning **BP and UE5.**
+- 🌱 I’m currently learning **UE5.**
 
 - 💬 Ask me about **collaboration on projects!**
 
