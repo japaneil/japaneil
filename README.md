@@ -4,7 +4,7 @@
 
 
 
-- I’m currently working on **Game Development (Yes, Again) and my Low Level Development (Honestly, from firmwares to anything).**
+- I’m currently working on **Game Development (Yes, Again) and Low-Level Development (Honestly, from firmwares to anything).**
 
 - I’m currently learning **Verilog (Gonna get into VLSI).**
 
