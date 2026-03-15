@@ -1,22 +1,14 @@
 
-<h1 align="center">👋 Hi, I'm Neil</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Heya, I'm Neil</h1>
 
 
 
 
-- 🔭 I’m currently working on **Game Development (Yes, Again) and my Microblogs (<a href="https://logs.neilarora.in/"> Access Here </a>).**
+- I’m currently working on **Game Development (Yes, Again) and my Low Level Development (Honestly, from firmwares to anything).**
 
-- 🌱 I’m currently learning **UE5.**
+- I’m currently learning **Verilog (Gonna get into VLSI).**
 
-- 💬 Ask me about **collaboration on projects!**
+- Ask me about anything related to **mechatronics engineering**, would love to help out!
 
-- 📫 How to reach me **contact@neilarora.in** or **neilarora2008@gmail.com.**
-
- <div style="display: flex; justify-content: center;" width="100%"><div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-one-iota.vercel.app?user=japaneil&theme=dark&hide_border=true" alt="GitHub Streak" /></a></div></div>
-
-<br>
-
-<div>
-<a href="https://www.buymeacoffee.com/neilaroraAI"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="neilaroraAI" /></a>
-</div>
+- Reach me at **contact@neilarora.in.**
+- Learn more about my work at **<a href="https://www.neilarora.in"> neilarora.in </a>**
