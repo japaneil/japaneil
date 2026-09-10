@@ -4,9 +4,9 @@
 
 
 
-- I’m currently working on **Game Development (Yes, Again) and Low-Level Development (Honestly, from firmwares to anything).**
+- I’m currently working on **Low-Level Development.**
 
-- I’m currently learning **Verilog (Gonna get into VLSI).**
+- I’m currently learning **absolutely nothing (uni's got me cooked).**
 
 - Ask me about anything related to **mechatronics engineering**, would love to help out!
 
