@@ -4,7 +4,7 @@
 
 
 
-- I’m currently working on **Low-Level Development.**
+- I’m currently working on **Matlab and Simulink.**
 
 - I’m currently learning **absolutely nothing (uni's got me cooked).**
 
